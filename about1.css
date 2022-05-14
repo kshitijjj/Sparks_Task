@@ -1,0 +1,121 @@
+body{
+    margin:0;
+  }
+  .container {
+    display:flex;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  #logo{
+      color: rgb(255,200,87);
+      font-weight:bold;
+      padding: 0px 10px;
+  }
+  h1{
+       font-family: 'PT Serif', serif;
+  }
+  #navbar li{
+    display:inline-block;
+  }
+  #navbar a{
+    font-family: 'Libre Bodoni', serif;
+    color:rgb(255, 200, 87);
+    text-decoration:none;
+    font-size:30px;
+    padding-right: 35px;
+    
+  }
+  #navbar{
+    padding-left: 90px;
+    
+  }
+  h2{
+    font-family: "Pt-Serif";
+    font-weight: bold;
+    font-size: 25px;
+  }
+
+  
+  #navbar a:hover{
+      font-size :25px ;
+      color:white;
+  }
+
+#main-header{
+    margin-top:25px ;
+    background-color:rgb(52, 50, 52);
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 12px;
+}body{
+    margin:0;
+  }
+  .container {
+    display:flex;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  #logo{
+      color: rgb(255,200,87);
+      font-weight:bold;
+      padding: 0px 10px;
+  }
+  h1{
+       font-family: 'PT Serif', serif;
+  }
+  #navbar li{
+    display:inline-block;
+  }
+  #navbar a{
+    font-family: 'Libre Bodoni', serif;
+    color:rgb(255, 200, 87);
+    text-decoration:none;
+    font-size:30px;
+    padding-right: 35px;
+    
+  }
+  #navbar{
+    padding-left: 90px;
+    
+  }
+
+  
+  #navbar a:hover{
+      font-size :25px ;
+      color:white;
+  }
+
+#main-header{
+    margin-top:25px ;
+    background-color:rgb(52, 50, 52);
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 12px;
+}
+#img2{
+    height: 430px;
+    width: 500px;
+    margin-top: 120px;
+    margin-left:50px ;
+    margin-bottom: 25px;
+}
+.box{
+    display: flex;
+    background-color: rgb(136, 209, 138);
+    margin: 50px;
+    border-radius: 9px;
+    padding-bottom: 20px;
+
+}
+.text{
+    margin-left:70px;
+    margin-top: 150px;
+    margin-right:50px
+}
+#btn-p{
+  margin-left: 250px;
+  margin-top: 20px;
+
+
+
+}

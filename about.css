@@ -1,0 +1,125 @@
+body{
+    margin:0;
+  }
+  .container {
+    display:flex;
+    padding-top: 10x;
+    padding-bottom: 10px;
+  }
+  #logo{
+      color: rgb(255,200,87);
+      font-weight:bold;
+      padding: 0px 10px;
+      padding-left: 110px;
+  }
+  h1{
+       font-family: 'PT Serif', serif;
+       font-size: 38px;
+  }
+  #navbar li{
+    display:inline-block;
+  }
+  #navbar a{
+    font-family: 'Libre Bodoni', serif;
+    color:rgb(255, 200, 87);
+    text-decoration:none;
+    font-size:30px;
+    padding-right: 35px;
+    
+  }
+  h1 #heading{
+    font-family: 'Cinzel', serif;
+  }
+  #navbar{
+    padding-left: 200px;
+    padding-top:20px ;
+  }
+
+  
+  #navbar a:hover{
+      font-size :25px ;
+      color:white;
+  }
+
+#main-header{
+    margin-top:25px ;
+    background-color:rgb(52, 50, 52);
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 12px;
+}
+.head{
+    padding-left:200px;
+    padding-top: 25px;
+    width: 200px;
+
+}
+#para{
+  background-color: white;
+  border-radius: 12px;
+    width: 400px;
+    height: 100px;
+    padding:20px;
+    padding-bottom: 30px;
+    margin-left: 70px;
+
+}
+p{
+    padding-bottom: 20px;
+    font-size: 17px;
+}
+.link{
+    margin-top: 25px;
+}
+#btn{
+    margin-left:200px ;
+    padding: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    text-decoration: none;
+    font-size: 22px;
+    color: white;
+    font-weight:bold ;
+    border: 2px;
+    background-color: rgb(255, 120, 79);
+    border-radius: 15px;
+}
+
+#image1{
+    float: right;
+    padding-right: 80px;
+    padding-top:80px;
+    width: 500px;
+    height: 300px;
+
+}
+
+.main-body{
+  margin-left: 25px;
+  margin-right: 25px;
+  border-radius: 15px;
+  background-color: rgb(201, 173, 255);
+  margin-top: 50px;
+  padding-bottom: 50px;
+}
+.footer{
+  background-color: black;
+  margin-top: 80px;
+  padding: 25px;
+}
+#b2,#b3{
+    font-size: 18px;
+    color: white;
+}
+h4{
+  margin-top: 20px;
+  color: white;
+  font-size: 25px;
+}
+.imgs{
+  display: block;
+  margin-top: 4px;
+}
+#imgs1,#imgs2,#imgs3{
+  margin: 5px;
+}
